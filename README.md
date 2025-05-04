@@ -227,7 +227,6 @@ terraform-gcp-hub-spoke/
 
 - [**VPC Peering**](examples/basic-vpc-peering/) - Complete example using VPC Peering
 - [**Network Connectivity Center**](examples/network-connectivity-center/) - Example using Network Connectivity Center
-- [**Cloud VPN**](examples/vpn-connectivity/) - Example using Cloud VPN
 
 ## 👥 Contributing
 
