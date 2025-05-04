@@ -48,7 +48,7 @@
 ## 🏗️ Architecture
 
 <div align="center">
-  ![hub_spoke_diagram](https://github.com/user-attachments/assets/e65a2a9e-ac78-413a-88ef-bbb3eb423dc3)
+  <img src="https://github.com/user-attachments/assets/e65a2a9e-ac78-413a-88ef-bbb3eb423dc3" alt="Architecture Diagram" width="800"/>
 </div>
 
 The Hub and Spoke architecture provides:
