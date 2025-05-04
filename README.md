@@ -48,7 +48,7 @@
 ## 🏗️ Architecture
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ajitpunchhi/terraform-gcp-hub-spoke/main/docs/images/architecture-diagram.png" alt="Architecture Diagram" width="800"/>
+  ![hub_spoke_diagram](https://github.com/user-attachments/assets/e65a2a9e-ac78-413a-88ef-bbb3eb423dc3)
 </div>
 
 The Hub and Spoke architecture provides:
