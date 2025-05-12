@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![GCP Hub and Spoke](https://raw.githubusercontent.com/ajitpunchhi/terraform-gcp-hub-spoke/main/docs/images/hub-spoke-banner.png)
+  
 
   [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
   [![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
